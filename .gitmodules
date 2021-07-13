@@ -1,0 +1,6 @@
+[submodule "sgg-mod-format"]
+	path = sgg-mod-format
+	url = https://github.com/SGG-Modding/sgg-mod-format.git
+[submodule "hades-CustomRunTools"]
+	path = hades-CustomRunTools
+	url = https://github.com/cgu11/hades-CustomRunTools
